@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+*.iml
+*.egg-info
+*.pyc
+*.csv
+*.json
+*.pt
+data
