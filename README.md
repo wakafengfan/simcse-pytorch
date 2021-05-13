@@ -16,6 +16,12 @@
 | pooling: first-last-avg    |                   | 
 
 
+### 环境
+
+- python==3.6.*
+- pytorch==1.8
+- transformers==4.4.2
+
 ### 参考
 SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/pdf/2104.08821.pdf
 https://kexue.fm/archives/8348
